@@ -5,7 +5,9 @@ This mod adds 7 new hats
 4) Olive (crewmate) hat
 6) scream hat
 7) 2024 hat
-How to install?
+
+
+How to install the mod?
 1) go to "mods" button
 2) press "inport"
 3) select "better hat pack zip"

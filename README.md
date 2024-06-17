@@ -1,10 +1,15 @@
 This mod adds 7 new hats
-1) cheese hat
-2) nerd hat
+1) 2024 hat
+2) cheese hat
 3) cute cat hat
-4) Olive (crewmate) hat
-6) scream hat
-7) 2024 hat
+4) gift (skin) hat
+5) had hat
+6) ice cream hat
+7) line hat
+8) MahadGaming5349 hat
+9) nerd hat
+10) olive (crewmate) hat
+11) scream hat
 
 
 How to install the mod?

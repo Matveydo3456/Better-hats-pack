@@ -1,4 +1,4 @@
-This mod adds 7 new hats
+This mod adds 11 new hats
 1) 2024 hat
 2) cheese hat
 3) cute cat hat

@@ -10,11 +10,16 @@ This mod adds 11 new hats
 9) nerd hat
 10) olive (crewmate) hat
 11) scream hat
+New:
+12) beta remasterx2 "had"
+13) ggirl hat(visor) 
+14) blank2
+15) bug one.
 
 
 How to install the mod?
 1) go to "mods" button
-2) press "inport"
+2) press "import"
 3) select "better hat pack zip"
 4) after selecting a file press "quick restart"
 you're done! choose new hats

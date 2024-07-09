@@ -11,7 +11,7 @@ This mod adds 11 new hats
 10) olive (crewmate) hat
 11) scream hat
 New:
-12) beta remasterx2 "had"
+12) remasterx2 "had"
 13) ggirl hat(visor) 
 14) blank2
 15) bug one.
